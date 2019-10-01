@@ -1,6 +1,6 @@
 # Resilience library
 
-[![Build Status](https://secure.travis-ci.org/DrSchimke/resilience.png)](http://travis-ci.org/DrSchimke/resilience)
+[![Build Status](https://secure.travis-ci.org/postcon/resilience.png)](http://travis-ci.org/postcon/resilience)
 
 A collection of reusable resilience pattern implementations. Currently implemented:
 
